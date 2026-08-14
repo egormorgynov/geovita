@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[929,["836","static/chunks/836-f331f6debcd69c6c.js","294","static/chunks/294-54011aecfe4fb741.js","929","static/chunks/929-fb6bfb29ba993e89.js","974","static/chunks/app/page-14b8c10acaa9b9a5.js"],"GeoVitaDemo"]
-3:I[1013,[],"OutletBoundary"]
+2:I[3189,["680","static/chunks/680-828ce3ae99421745.js","831","static/chunks/831-04282719488c3244.js","189","static/chunks/189-c30cb5be7b7b4202.js","974","static/chunks/app/page-ad064a82b6b598b7.js"],"GeoVitaDemo"]
+3:I[2274,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/geovita/_next/static/css/2516103126fa5d4d.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/geovita/_next/static/css/2516103126fa5d4d.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Y3jkQfCbod-VN_cv_UNeE"}
+:HL["/geovita/_next/static/css/36af24940386913e.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/geovita/_next/static/css/36af24940386913e.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fS4mgCfs0mQ5aB9Q5XrLZ"}
 5:null

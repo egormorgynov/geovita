@@ -1,3 +1,3 @@
-:HL["/geovita/_next/static/css/6ec87329498673e1.css","style"]
-:HL["/geovita/_next/static/css/2516103126fa5d4d.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Y3jkQfCbod-VN_cv_UNeE"}
+:HL["/geovita/_next/static/css/b22030317709926d.css","style"]
+:HL["/geovita/_next/static/css/36af24940386913e.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"fS4mgCfs0mQ5aB9Q5XrLZ"}
